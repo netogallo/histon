@@ -1,3 +1,6 @@
 [submodule "histon-engine"]
 	path = histon-engine
 	url = git@github.com:netogallo/histon-engine.git
+[submodule "histon-client"]
+	path = histon-client
+	url = git@github.com:netogallo/histon-client.git
